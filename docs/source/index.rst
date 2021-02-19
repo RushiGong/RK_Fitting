@@ -5,8 +5,9 @@ Another simple header
 =====================
 
 Here is some text expalining some very complicated stuff.::
-	print 'hello'
-	>> hello
+
+    print 'hello'
+    >> hello
 
 Guide
 ^^^^^
